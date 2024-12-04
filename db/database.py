@@ -1,4 +1,4 @@
-#Profe Sergio
+#Profe Sergio teste3
 import mysql.connector
 
 # Configurações do banco de dados
