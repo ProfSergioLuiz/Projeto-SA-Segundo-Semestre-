@@ -1,3 +1,4 @@
+#Profe Sergio
 import mysql.connector
 
 # Configurações do banco de dados
